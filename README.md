@@ -51,7 +51,7 @@ Aplicar los conocimientos del curso en la resolución de problemas reales median
 
 **Andrés Cano Rave**  
 📧 [a.canorave@gmail.com](mailto:a.canorave@gmail.com)  
-💼 [LinkedIn](https://linkedin.com/in/andrescanorave) | [GitHub](https://github.com/devrave)
+💼 [GitHub](https://github.com/devrave)
 
 ---
 
